@@ -1,0 +1,7 @@
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\bin\EnvoiPosJoueur.dll.config
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\bin\EnvoiPosJoueur.dll
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\bin\EnvoiPosJoueur.pdb
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\obj\Debug\EnvoiPosJoueur.csprojResolveAssemblyReference.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\obj\Debug\EnvoiPosJoueur.csproj.CoreCompileInputs.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\obj\Debug\EnvoiPosJoueur.dll
+C:\Users\TANCRED\source\repos\UpdateJoueur\EnvoiPosJoueur\obj\Debug\EnvoiPosJoueur.pdb

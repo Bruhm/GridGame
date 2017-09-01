@@ -1,0 +1,7 @@
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\bin\UpdateJoueur.dll.config
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\bin\UpdateJoueur.dll
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\bin\UpdateJoueur.pdb
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\obj\Debug\MajGrille.csprojResolveAssemblyReference.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\obj\Debug\MajGrille.csproj.CoreCompileInputs.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\obj\Debug\UpdateJoueur.dll
+C:\Users\TANCRED\source\repos\UpdateJoueur\UpdateJoueur\obj\Debug\UpdateJoueur.pdb

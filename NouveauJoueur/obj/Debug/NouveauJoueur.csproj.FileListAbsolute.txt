@@ -1,0 +1,7 @@
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\bin\NouveauJoueur.dll.config
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\bin\NouveauJoueur.dll
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\bin\NouveauJoueur.pdb
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\obj\Debug\NouveauJoueur.csprojResolveAssemblyReference.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\obj\Debug\NouveauJoueur.csproj.CoreCompileInputs.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\obj\Debug\NouveauJoueur.dll
+C:\Users\TANCRED\source\repos\UpdateJoueur\NouveauJoueur\obj\Debug\NouveauJoueur.pdb

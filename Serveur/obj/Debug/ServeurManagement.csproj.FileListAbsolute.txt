@@ -1,0 +1,2 @@
+C:\Users\TANCRED\source\repos\UpdateJoueur\Serveur\obj\Debug\ServeurManagement.csprojResolveAssemblyReference.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\Serveur\obj\Debug\ServeurManagement.csproj.CoreCompileInputs.cache

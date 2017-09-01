@@ -1,0 +1,15 @@
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\bin\Debug\View.exe.config
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\bin\Debug\View.exe
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\bin\Debug\View.pdb
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\MainWindow.g.cs
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\App.g.cs
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\MainWindow.baml
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.g.resources
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.exe
+C:\Users\TANCRED\source\repos\UpdateJoueur\View\obj\Debug\View.pdb
